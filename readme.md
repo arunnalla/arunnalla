@@ -4,10 +4,10 @@
     *
     <a href="https://www.linkedin.com/in/arunnalla">linkedin</a>
     *
-    <a href="https://arunnalla.github.io/static/resume/resume.html">resume</a> 
-    (<a href="https://arunnalla.github.io/static/resume/resume.html">html</a>
+    <a href="https://static.arunnalla.com/resume.html">resume</a> 
+    (<a href="https://static.arunnalla.com/resume.html">html</a>
     /
-    <a href="https://arunnalla.github.io/static/resume/resume.pdf">pdf</a>)
+    <a href="https://static.arunnalla.com/resume.pdf">pdf</a>)
     *
     <a href="https://www.medium.com/@arunnalla">medium</a>
     *
